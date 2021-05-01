@@ -1,0 +1,16 @@
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\command\bus\impl\InMemoryCommandBus.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\command\handler\CommandHandler.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\domain\Event.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\command\bus\CommandBus.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\config\EventConfig.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\query\bus\QueryBus.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\domain\Query.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\query\handler\QueryHandler.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\domain\Command.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\event\bus\impl\EventBusImpl.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\event\handler\EventHandler.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\query\bus\impl\InMemoryQueryBus.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\domain\AggregateRoot.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\event\bus\EventBus.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\config\ScannerHandler.java
+C:\Users\maalcala\Desktop\cqrs\src\main\java\com\mage\cqrs\application\config\HandlerRoute.java

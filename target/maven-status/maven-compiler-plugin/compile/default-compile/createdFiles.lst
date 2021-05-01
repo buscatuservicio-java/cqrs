@@ -1,0 +1,17 @@
+com\mage\cqrs\application\command\bus\CommandBus.class
+com\mage\cqrs\domain\Event.class
+com\mage\cqrs\application\config\EventConfig.class
+com\mage\cqrs\domain\Command.class
+com\mage\cqrs\application\event\bus\impl\EventBusImpl.class
+com\mage\cqrs\application\command\handler\CommandHandler.class
+com\mage\cqrs\application\query\bus\QueryBus.class
+com\mage\cqrs\application\command\bus\impl\InMemoryCommandBus.class
+com\mage\cqrs\application\event\handler\EventHandler.class
+com\mage\cqrs\application\query\handler\QueryHandler.class
+com\mage\cqrs\domain\AggregateRoot.class
+com\mage\cqrs\application\config\HandlerRoute$HandlerRouteBuilder.class
+com\mage\cqrs\application\config\HandlerRoute.class
+com\mage\cqrs\application\query\bus\impl\InMemoryQueryBus.class
+com\mage\cqrs\application\config\ScannerHandler.class
+com\mage\cqrs\domain\Query.class
+com\mage\cqrs\application\event\bus\EventBus.class

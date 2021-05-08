@@ -23,7 +23,7 @@ public class InMemoryCommandBus implements CommandBus {
     }
 
     @Override
-    public <R, C extends Command> Mono<R> execute(C command, Class<? extends Command> type) {
+    public <R, C extends Command> Mono<R> execute(Mono<C> command, Class<? extends Command> type) {
         try {
             Class<?> handler = scannerHandler.getMapCommandHandlers().get(type.getTypeName());
             return (Mono<R>) handler.getDeclaredMethods()[0].invoke(applicationContext.getBean(handler), command);
